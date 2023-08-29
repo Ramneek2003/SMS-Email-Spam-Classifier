@@ -1,2 +1,2 @@
 # SMS-Email-Spam-Classifier
-SMS spam classification using multinomial naive bayes algorithm.
+SMS classification using Multinomial Naive Bayes algorithm.
